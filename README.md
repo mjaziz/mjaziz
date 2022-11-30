@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mjaziz
 - 👀 I’m interested in travel, running, coding and problem solving
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently working on Python projects
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me mjaziz101@gmail.com
 
